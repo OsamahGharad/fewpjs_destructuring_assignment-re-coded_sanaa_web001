@@ -26,7 +26,8 @@ const k_muppet = {
 };
 
 // Strings
-const[cow,horse,sheep,pig,chicken]='cow horse sheep pig chicken'.split("' ');
+const [cow,horse,sheep,pig,chicken]='cow horse sheep pig chicken'.split("' ');
+
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
 
